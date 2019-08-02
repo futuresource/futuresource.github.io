@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>futuresource.github.io/post/</link>
+    <link>https://futuresource.github.io/post/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2019 22:10:45 +0800</lastBuildDate>
     
-	<atom:link href="futuresource.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://futuresource.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>So sad</title>
-      <link>futuresource.github.io/post/blog/</link>
+      <link>https://futuresource.github.io/post/blog/</link>
       <pubDate>Tue, 30 Jul 2019 22:10:45 +0800</pubDate>
       
-      <guid>futuresource.github.io/post/blog/</guid>
-      <description>Hello World This is my first hugo site, wooo!!
- hugo_install=&amp;quot;success&amp;quot; if [[ $hugo_install == &amp;quot;success&amp;quot; ]]; then echo &amp;quot;Happy me&amp;quot;  bye!</description>
+      <guid>https://futuresource.github.io/post/blog/</guid>
+      <description>Sorry no my want This is my first hugo site, wooo!!
+hugo --theme-m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  bye!</description>
     </item>
     
   </channel>
