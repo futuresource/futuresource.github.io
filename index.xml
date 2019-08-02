@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Lc</title>
     <link>https://futuresource.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Lc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jul 2019 22:10:45 +0800</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>https://futuresource.github.io/post/blog/</guid>
       <description>Sorry no my want This is my first hugo site, wooo!!
-hugo --theme-m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  bye!</description>
+hugo --theme=m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  bye!</description>
     </item>
     
   </channel>
