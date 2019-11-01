@@ -6,19 +6,29 @@
     <description>Recent content in Posts on Lc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jul 2019 22:10:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 15:20:04 +0800</lastBuildDate>
     
 	<atom:link href="https://futuresource.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>So sad</title>
+      <title>要点</title>
+      <link>https://futuresource.github.io/post/2/</link>
+      <pubDate>Fri, 01 Nov 2019 15:20:04 +0800</pubDate>
+      
+      <guid>https://futuresource.github.io/post/2/</guid>
+      <description>网站访问协议
+#网址后面加 robots.txt  </description>
+    </item>
+    
+    <item>
+      <title>Github博客</title>
       <link>https://futuresource.github.io/post/blog/</link>
       <pubDate>Tue, 30 Jul 2019 22:10:45 +0800</pubDate>
       
       <guid>https://futuresource.github.io/post/blog/</guid>
-      <description>Sorry no my want This is my first hugo site, wooo!!
-hugo --theme=m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  bye!</description>
+      <description> futuresource.github.io
+新建文章 hugo new xxx.md  推送到Github hugo --theme=m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  </description>
     </item>
     
   </channel>
