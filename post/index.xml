@@ -6,17 +6,33 @@
     <description>Recent content in Posts on Lc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 15:20:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 12:11:48 +0800</lastBuildDate>
     
 	<atom:link href="https://futuresource.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>要点</title>
-      <link>https://futuresource.github.io/post/2/</link>
+      <title>Github条件搜索</title>
+      <link>https://futuresource.github.io/post/github_search_advanced/</link>
+      <pubDate>Thu, 21 Nov 2019 12:11:48 +0800</pubDate>
+      
+      <guid>https://futuresource.github.io/post/github_search_advanced/</guid>
+      <description>官方地址
+搜索栏方式 in:name example&amp;mdash;-名字中有“example”
+in:readme example&amp;mdash;-readme中有“example”
+in:description example&amp;mdash;-描述中有“example”
+stars:&amp;gt;1000&amp;mdash;-star&amp;gt;1000
+forks:&amp;gt;1000&amp;mdash;-fork&amp;gt;1000
+pushed:&amp;gt;2019-09-01&amp;mdash;-2019年9月1日后有更新的
+language:java&amp;mdash;-用Java编写的项目</description>
+    </item>
+    
+    <item>
+      <title>经验</title>
+      <link>https://futuresource.github.io/post/uesfull/</link>
       <pubDate>Fri, 01 Nov 2019 15:20:04 +0800</pubDate>
       
-      <guid>https://futuresource.github.io/post/2/</guid>
+      <guid>https://futuresource.github.io/post/uesfull/</guid>
       <description>网站访问协议
 #网址后面加 robots.txt  </description>
     </item>
@@ -28,7 +44,7 @@
       
       <guid>https://futuresource.github.io/post/blog/</guid>
       <description> futuresource.github.io
-新建文章 hugo new xxx.md  推送到Github hugo --theme=m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  </description>
+本地启动hugo服务 hugo server -t m10c --buildDrafts  新建文章 hugo new xxx.md  推送到Github hugo --theme=m10c --baseUrl=&amp;quot;https://futuresource.github.io/&amp;quot; --buildDrafts cd public git add . git commit -m &amp;quot;2&amp;quot; git remote add origin https://github.com/futuresource/futuresource.github.io.git git push -u origin master  </description>
     </item>
     
   </channel>
