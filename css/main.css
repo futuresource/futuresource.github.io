@@ -9,7 +9,7 @@ body {
         min-height: 100vh;
         background: linear-gradient(-30deg,#03a9f4 0%,#3a78b7 50%,#262626 50%,#607d8b 100%);
         filter: hue-rotate(120deg);
-        animation: animate 1s linear infinite;
+        animation: animate 5s linear infinite;
     }
 
     @keyframes animate {
